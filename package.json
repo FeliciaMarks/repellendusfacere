@@ -1,0 +1,44 @@
+{
+  "name": "repellendusfacere",
+  "version": "1.0.0",
+  "description": "an indexed quad mesh with normals and UVs",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "BradRodriguez",
+  "dependencies": {},
+  "devDependencies": {
+    "browserify": "^10.2.4",
+    "budo": "^4.1.0",
+    "garnish": "^2.1.3",
+    "uglify-js": "^2.4.23",
+    "glo-demo-primitive": "^2.0.1"
+  },
+  "keywords": [
+    "glo",
+    "js",
+    "glo-js",
+    "odit",
+    "gl",
+    "a",
+    "ut",
+    "primitive",
+    "amet",
+    "nulla",
+    "officiis",
+    "doloremque",
+    "consequatur",
+    "fugit",
+    "consequatur",
+    "aut",
+    "cells",
+    "indexed"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FeliciaMarks/repellendusfacere.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FeliciaMarks/repellendusfacere.git/issues"
+  },
+  "homepage": "https://github.com/FeliciaMarks/repellendusfacere.git"
+}
